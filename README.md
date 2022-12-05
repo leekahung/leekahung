@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/leekahung)  
-
 ### Hi there 👋 Ka Hung here!
 #### I am a Web Developer / Hobby Programmer
 Have been an active coder as of late, whether it's in web development or simply writing a functional script, I enjoy creating web content that could be used or seen online!
