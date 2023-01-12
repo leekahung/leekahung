@@ -8,4 +8,4 @@ Skills: HTML / CSS / JS / TypeScript / React / Python3 / Bash
 - 🌱 I’m currently learning React
 - 📫 How to reach me: lee.kahung414@gmail.com
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leekahung&show_icons=true)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=leekahung&show_icons=true)-->
