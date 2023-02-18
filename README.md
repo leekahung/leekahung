@@ -5,8 +5,8 @@ Have been an active coder as of late, whether it's in web development or simply 
 Skills: JavaScript (ES6) / React.js / HTML5 / CSS3 / Bash
 
 - :star: I’m currently working with React.js
-- 🌱 I’m currently learning Material UI, TypeScript, Next.js
-- 🔭 I'm currently interested in/looking into: Rust
+- 🌱 I’m currently learning Material UI, TypeScript
+- 🔭 I'm currently interested in/looking into: Next.js, Rust
 - 📫 How to reach me: lee.kahung414@gmail.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leekahung&show_icons=true)
