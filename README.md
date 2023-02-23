@@ -9,4 +9,4 @@ Skills: JavaScript (ES6) / React.js / HTML5 / CSS3 / Bash
 - 🔭 I'm currently interested in/looking into: Next.js, Rust, Go
 - 📫 How to reach me lee.kahung414@gmail.com
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leekahung&show_icons=true)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=leekahung&show_icons=true)-->
