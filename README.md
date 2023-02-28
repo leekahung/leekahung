@@ -6,7 +6,7 @@ Skills: JavaScript (ES6) / React.js / HTML5 / CSS3 / Bash
 
 - :star: I’m currently working with: React.js
 - 🌱 I’m currently learning: Material UI, Styled Components, TypeScript
-- 🔭 I'm currently interested in/looking into: Next.js, Rust, Go
+- 🔭 I'm currently interested in/looking into: Solid.js, Next.js, Rust, Go
 - 📫 How to reach me lee.kahung414@gmail.com
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=leekahung&show_icons=true)-->
