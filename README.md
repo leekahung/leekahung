@@ -4,7 +4,7 @@ Have been an active coder as of late, whether it's in web development or simply 
 
 Skills: JavaScript (ES6) / React.js / HTML5 / CSS3 / Bash
 
-- :star: I’m currently working with: React.js
+- :star: I’m currently working with: React.js, JavaScript, HTML, CSS, Node.js
 - 🌱 I’m currently learning: Material UI, Styled Components, TypeScript
 - 🔭 I'm currently interested in/looking into: Solid.js, Next.js, Rust, Go
 - 📫 How to reach me lee.kahung414@gmail.com
