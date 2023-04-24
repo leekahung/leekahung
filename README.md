@@ -9,6 +9,6 @@ Skills: React.js / Next.js / JavaScript / HTML / CSS / SASS / Bash
 - 🔭 I'm currently interested in/looking into: Solid.js, Rust, Go
 - 📫 How to reach me lee.kahung414@gmail.com
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leekahung&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leekahung&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leekahung&hide=jupyter%20notebook&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leekahung&hide=jupyter%20notebook&layout=compact&theme=dark)
