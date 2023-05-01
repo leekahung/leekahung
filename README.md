@@ -5,7 +5,7 @@
 #### I am a Web Developer / Hobby Programmer
 Have been an active coder as of late, whether it's in web development or simply writing a functional script, I enjoy creating web content that could be used or seen online! I'm currently contributing to a local community project, PASS, at Code For PDX (See [link to project](https://github.com/codeforpdx/PASS)) as well as an open-source project called Wars World (See [link to project](https://github.com/WarsWorld/WarsWorld))
 
-Skills: React.js / Next.js / JavaScript / SASS / HTML / CSS
+Skills: React.js / Next.js / JavaScript / TypeScript / SASS / HTML / CSS / Tailwind
 
 <table width="320px">
     <tbody>
@@ -22,6 +22,10 @@ Skills: React.js / Next.js / JavaScript / SASS / HTML / CSS
               <span><strong>JS</strong></span><br>
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
             </td>
+            <td width="80px" align="center">
+              <span><strong>TS</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
@@ -35,6 +39,10 @@ Skills: React.js / Next.js / JavaScript / SASS / HTML / CSS
             <td width="80px" align="center">
               <span><strong>CSS</strong></span><br>
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+            <td width="80px" align="center">
+              <span><strong>Tailwind</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
             </td>
         </tr>
     </tbody>
