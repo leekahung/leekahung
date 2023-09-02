@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ka-hung-lee/)
 
 #### I am a Web Developer / Hobby Programmer
-Have been an active coder as of late, whether it's in web development or simply writing a functional script, I enjoy creating web content that could be used or seen online! I'm currently contributing to a local community project, PASS, at Code For PDX (See [link to project](https://github.com/codeforpdx/PASS)) as well as an open-source project called Wars World (See [link to project](https://github.com/WarsWorld/WarsWorld))
+Have been an active coder as of late, whether it's in web development or simply writing a functional script, I enjoy creating web content that could be used or seen online! I'm currently contributing to a local community project, PASS, at Code For PDX (See [link to project](https://github.com/codeforpdx/PASS)) and had participated in an open-source project called Wars World (See [link to project](https://github.com/WarsWorld/WarsWorld))
 
 Skills: React.js / Next.js / JavaScript / TypeScript / SASS / HTML / CSS / Tailwind
 
