@@ -49,8 +49,8 @@ Skills: React.js / Next.js / JavaScript / TypeScript / SASS / HTML / CSS / Tailw
 </table>
 
 - :star: I’m currently working with: React.js, JavaScript, HTML, CSS, SASS, Node.js, Material UI, Tailwind CSS
-- 🌱 I’m currently learning: Astro, Styled Components, TypeScript, Next.js
-- 🔭 I'm currently interested in/looking into: Solid.js, Go
+- 🌱 I’m currently learning: Go, Astro, Styled Components, TypeScript, Next.js
+- 🔭 I'm currently interested in/looking into: Solid.js
 - 📫 How to reach me lee.kahung414@gmail.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leekahung&show_icons=true&theme=dark)
