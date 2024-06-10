@@ -12,44 +12,44 @@ Skills: React.js / Next.js / JavaScript / TypeScript / SASS / HTML / CSS / Tailw
         <tr valign="top">
             <td width="80px" align="center">
               <span><strong>React.js</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
             </td>
             <td width="80px" align="center">
               <span><strong>Next.js</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
             </td>
             <td width="80px" align="center">
               <span><strong>JS</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
             </td>
             <td width="80px" align="center">
               <span><strong>TS</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
             </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
               <span><strong>SASS</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
             </td>
             <td width="80px" align="center">
               <span><strong>HTML</strong></span><br>
-              <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+              <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
             </td>
             <td width="80px" align="center">
               <span><strong>CSS</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
             </td>
             <td width="80px" align="center">
               <span><strong>Tailwind</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
             </td>
         </tr>
     </tbody>
 </table>
 
-- :star: I’m currently working with: React.js, TypeScript, JavaScript, HTML, CSS, SASS, Node.js, Material UI, Tailwind CSS
-- 🌱 I’m currently learning: Go, Astro, Styled Components, Next.js
+- :star: I’m currently working with: React.js, TypeScript, JavaScript, HTML, CSS, SASS, Node.js, Material UI, Tailwind CSS, Next.js
+- 🌱 I’m currently learning: Go, Astro
 - 🔭 I'm currently interested in/looking into: Solid.js
 - 📫 How to reach me lee.kahung414@gmail.com
 
