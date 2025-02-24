@@ -5,53 +5,9 @@
 #### I am a Frontend Developer / UI Engineer
 Whether it is code for web development or simply writing a functional script, I enjoy creating web content that can be used or seen online! Had previously worked on a community project called, [PASS](https://github.com/codeforpdx/PASS), at Code PDX and an open-source project called [Wars World](https://github.com/WarsWorld/WarsWorld). Currently working at a start-up called (See [LATERAL.systems](https://lateral.systems/)) as part of their engineering team. Have also worked on side projects like ([Phase-Tracker](https://phase-connect-tracker.netlify.app/)) in my spare time.
 
-Skills: React.js / Next.js / JavaScript / TypeScript / SASS / HTML / CSS / Tailwind
-
-<table width="320px">
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-              <span><strong>React.js</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-            </td>
-            <td width="80px" align="center">
-              <span><strong>Next.js</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-            </td>
-            <td width="80px" align="center">
-              <span><strong>JS</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-            </td>
-            <td width="80px" align="center">
-              <span><strong>TS</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-            </td>
-        </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
-              <span><strong>SASS</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
-            </td>
-            <td width="80px" align="center">
-              <span><strong>HTML</strong></span><br>
-              <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-            </td>
-            <td width="80px" align="center">
-              <span><strong>CSS</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-            </td>
-            <td width="80px" align="center">
-              <span><strong>Tailwind</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-- :star: I’m currently working with: React.js, TypeScript, JavaScript, HTML, CSS, SASS, Node.js, Material UI, Tailwind CSS, Next.js, Supabase, Netlify
-- 🌱 I’m currently learning: Go, Astro
-- 🔭 I'm currently interested in/looking into: Solid.js
-- 📫 How to reach me lee.kahung414@gmail.com
+- :star: I’m currently working with: React.js, TypeScript, HTML, CSS, Tailwind CSS, Electron.js, Supabase, Netlify
+- 🌱 I’m currently learning: Go, Supabase
+- 📫 Reach me either through my email at lee.kahung414@gmail.com or at my LinkedIn
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leekahung&show_icons=true&theme=dark)
 
