@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ka-hung-lee/)
 
 #### I am a Frontend Developer / UI Engineer
-Whether it is code for web development or simply writing a functional script, I enjoy creating web content that can be used or seen online! Had previously worked on a community project called, PASS, at Code PDX (See [link to project](https://github.com/codeforpdx/PASS)) and have previously participated in an open-source project called Wars World (See [link to project](https://github.com/WarsWorld/WarsWorld)). Currently working at a start-up called LATERAL.systems as part of their engineering team (See [link to start-up](https://lateral.systems/)).
+Whether it is code for web development or simply writing a functional script, I enjoy creating web content that can be used or seen online! Had previously worked on a community project called, [PASS](https://github.com/codeforpdx/PASS), at Code PDX and an open-source project called [Wars World](https://github.com/WarsWorld/WarsWorld). Currently working at a start-up called (See [LATERAL.systems](https://lateral.systems/)) as part of their engineering team. Have also worked on side projects like ([Phase-Tracker](https://phase-connect-tracker.netlify.app/)) in my spare time.
 
 Skills: React.js / Next.js / JavaScript / TypeScript / SASS / HTML / CSS / Tailwind
 
