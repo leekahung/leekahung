@@ -2,8 +2,8 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ka-hung-lee/)
 
-#### I am a Web Developer / Hobby Programmer
-Have been an active coder as of late, whether it's in web development or simply writing a functional script, I enjoy creating web content that could be used or seen online! I'm currently contributing to a local community project, PASS, at Code For PDX (See [link to project](https://github.com/codeforpdx/PASS)) and have previously participated in an open-source project called Wars World (See [link to project](https://github.com/WarsWorld/WarsWorld)). Currently working with a start-up called LATERAL.systems as part of their engineering team.
+#### I am a Frontend Developer / UI Engineer
+Whether it is code for web development or simply writing a functional script, I enjoy creating web content that can be used or seen online! Had previously worked on a community project called, PASS, at Code PDX (See [link to project](https://github.com/codeforpdx/PASS)) and have previously participated in an open-source project called Wars World (See [link to project](https://github.com/WarsWorld/WarsWorld)). Currently working at a start-up called LATERAL.systems as part of their engineering team (See [link to start-up](https://lateral.systems/)).
 
 Skills: React.js / Next.js / JavaScript / TypeScript / SASS / HTML / CSS / Tailwind
 
@@ -48,7 +48,7 @@ Skills: React.js / Next.js / JavaScript / TypeScript / SASS / HTML / CSS / Tailw
     </tbody>
 </table>
 
-- :star: I’m currently working with: React.js, TypeScript, JavaScript, HTML, CSS, SASS, Node.js, Material UI, Tailwind CSS, Next.js
+- :star: I’m currently working with: React.js, TypeScript, JavaScript, HTML, CSS, SASS, Node.js, Material UI, Tailwind CSS, Next.js, Supabase, Netlify
 - 🌱 I’m currently learning: Go, Astro
 - 🔭 I'm currently interested in/looking into: Solid.js
 - 📫 How to reach me lee.kahung414@gmail.com
