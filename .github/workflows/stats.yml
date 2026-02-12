@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate Main Stats Card
-        uses: soulteary/github-readme-stats-action@v1.1.0
+        uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: stats
           options: 'username=leekahung&show_icons=true&theme=dark'
