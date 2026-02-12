@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate Top Languages Card
-        uses: soulteary/github-readme-stats-action@v1.1.0
+        uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: top-langs
           # This matches your exact requested URL parameters
