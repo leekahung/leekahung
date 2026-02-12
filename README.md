@@ -8,7 +8,3 @@ Whether it is code for web development or simply writing a functional script, I 
 - :star: I’m currently working with: React.js, TypeScript, HTML, CSS, Tailwind CSS, Electron.js, Supabase, Netlify
 - 🌱 I’m currently learning: Framer Motion, Supabase, Go
 - 📫 Reach me either through my email at lee.kahung414@gmail.com or at my LinkedIn
-
-![My Stats](./github-stats.svg)
-
-![My Top Languages](./top-langs.svg)
