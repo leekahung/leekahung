@@ -11,4 +11,4 @@ Whether it is code for web development or simply writing a functional script, I 
 
 ![My Stats](./github-stats.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leekahung&hide=jupyter%20notebook&layout=compact&theme=dark)
+![My Top Languages](./top-langs.svg)
