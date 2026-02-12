@@ -9,6 +9,6 @@ Whether it is code for web development or simply writing a functional script, I 
 - 🌱 I’m currently learning: Framer Motion, Supabase, Go
 - 📫 Reach me either through my email at lee.kahung414@gmail.com or at my LinkedIn
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leekahung&show_icons=true&theme=dark)
+![My Stats](./github-stats.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leekahung&hide=jupyter%20notebook&layout=compact&theme=dark)
