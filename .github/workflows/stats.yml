@@ -2,8 +2,8 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Every night at midnight
-  workflow_dispatch:     # Manual trigger button
+    - cron: '0 0 * * *' # Updates every night at midnight
+  workflow_dispatch:     # Allows you to click a button to run it manually
 
 jobs:
   publish:
@@ -12,7 +12,9 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
         with:
+          # Use your secret PAT to allow pushing changes back
           token: ${{ secrets.STATS_TOKEN }}
+          persist-credentials: false
 
       - name: Generate Main Stats Card
         uses: soulteary/github-readme-stats-action@v1.0.0
@@ -26,15 +28,21 @@ jobs:
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: top-langs
-          # This matches your exact requested URL parameters
           options: 'username=leekahung&hide=jupyter%20notebook&layout=compact&theme=dark'
           path: top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
 
-      - name: Commit and Push
+      - name: Save Changes to Repo
+        env:
+          MY_TOKEN: ${{ secrets.STATS_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Force the remote to use your PAT for the push
+          git remote set-url origin https://x-access-token:${MY_TOKEN}@github.com/${{ github.repository }}.git
+          
           git add github-stats.svg top-langs.svg
-          git commit -m "docs: update github profile stats and languages" || exit 0
-          git push
+          # Only commit if there are actually changes to avoid errors
+          git commit -m "docs: auto-update github stats" || exit 0
+          git push origin HEAD
